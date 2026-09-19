@@ -158,7 +158,7 @@ Last but not least there are a lot of high class tutorials available on YouTube:
 1. Most Linux distribution ships a package manager already and if this is the
    case you are all set for this step.
 
-   If it doesn't, you may need to build the softwares mentioned below from their
+   If it doesn't, you may need to build the software mentioned below from their
    sources.
 
 2. In most distributions, Emacs is installed via an `emacs` package from the
