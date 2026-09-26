@@ -195,8 +195,9 @@ Last but not least there are a lot of high class tutorials available on YouTube:
    fc-cache -fv
    ```
 
-6. *(Optional)* If your distribution is listed [here][ripgrep-installation],
-   follow the instructions. Otherwise, you can download its pre-built binary or
+6. *(Optional)* If your distribution is listed
+   [here][ripgrep-installation], follow the instructions to install
+   ripgrep (rg). Otherwise, you can download its pre-built binary or
    build it from source.
 
 ### macOS
